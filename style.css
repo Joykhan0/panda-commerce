@@ -1,0 +1,85 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat1{
+    background: linear-gradient(to right, yellow, orange);
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 8px;
+}
+.cat2{
+    background-image: linear-gradient(to right, tomato, hotpink);
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 8px;
+}
+.cat3{
+    background-image: linear-gradient(to right, lightblue, blue);
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: transform 1s;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: lightslategray;
+}
+footer{
+    text-align: center;
+}
+.cat1{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: transform 1s;
+}
+.cat1:hover{
+    transform: scale(1.1);
+}
+.cat2{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: transform 1s;
+}
+.cat2:hover{
+    transform: scale(1.1);
+}
+.cat3{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: transform 1s;
+}
+.cat3:hover{
+    transform: scale(1.1);
+}
